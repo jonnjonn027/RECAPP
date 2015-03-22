@@ -2,7 +2,7 @@
   "manifest_version": 2,
 
   "name": "RecApp!",
-  "description": "connectifier is bs",
+  "description": "cctf is bs",
   "version": "1.0",
   "browser_action": {
     "default_icon": "icon.png",
