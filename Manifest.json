@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+
+  "name": "One Day!",
+  "description": "connectifier is bs",
+  "version": "1.0",
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup2.html",
+    "default_title": "Name:"
+  },
+ 
+  "permissions": [
+    "activeTab",
+    "https://ajax.googleapis.com/"
+  ]
+
+}
