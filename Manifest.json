@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
 
-  "name": "One Day!",
+  "name": "RecApp!",
   "description": "connectifier is bs",
   "version": "1.0",
   "browser_action": {
