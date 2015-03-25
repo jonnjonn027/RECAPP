@@ -1,7 +1,7 @@
 <!DOCTYPE html>
-//this creates the text boxes to fill in first/middle/last name
 <html>
     <head>
+        <script src="popup2.js"></script>
         <style>
             body { 
                 min-width: 20px; 
@@ -18,18 +18,17 @@
         </style>
     </head>
     <body>
-        <form id="Find People">
             <p><label for="First Name">First Name</label><br />
-            <input type="text" id="First Name" name="First Name" size="50" value="" /></p>
+            <input type="text" id="firstName" name="First Name" size="50" value="" /></p>
             <p><label for="Middle Name">Middle Name</label><br />
-            <input type="text" id="Middle Name" name="Middle Name" size="50" value="" /></p>
+            <input type="text" id="middleName" name="Middle Name" size="50" value="" /></p>
             <p><label for="Last Name">Last Name</label><br />
-            <input type="text" id="Last Name" name="Last Name" size="50" value="" /></p>
+            <input type="text" id="lastName" name="Last Name" size="50" value="" /></p>
             <p><label for="Domain">Domain</label><br />
-            <input type="Domain" id="Domain" name="Domain" size="50" value="" /></p>
+            <input type="Domain" id="domain" name="Domain" size="50" value="" /></p>
             <p>
                 <span id="status-display"></span>
             </p>
-        </form>
+            <button id='submitbutton'>Submit!</button>
     </body>
 </html>
