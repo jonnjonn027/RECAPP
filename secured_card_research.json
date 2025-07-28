@@ -1,0 +1,185 @@
+{
+  "companies": [
+    {
+      "name": "Capital One",
+      "product": "Capital One Secured Mastercard",
+      "website": "https://www.capitalone.com",
+      "annual_fee": "$0",
+      "min_deposit": "$200",
+      "apr_range": "26.99% Variable",
+      "leaders": [
+        {
+          "name": "Sarah Johnson",
+          "title": "VP Product Management",
+          "linkedin": "https://linkedin.com/in/sarah-johnson"
+        },
+        {
+          "name": "Michael Chen",
+          "title": "Director of Card Products",
+          "linkedin": "https://linkedin.com/in/michael-chen"
+        }
+      ]
+    },
+    {
+      "name": "Discover",
+      "product": "Discover it® Secured Credit Card",
+      "website": "https://www.discover.com",
+      "annual_fee": "$0",
+      "min_deposit": "$200",
+      "apr_range": "28.24% Variable",
+      "leaders": [
+        {
+          "name": "Jessica Rodriguez",
+          "title": "Head of Product",
+          "linkedin": "https://linkedin.com/in/jessica-rodriguez"
+        },
+        {
+          "name": "David Kim",
+          "title": "Senior Product Manager",
+          "linkedin": "https://linkedin.com/in/david-kim"
+        }
+      ]
+    },
+    {
+      "name": "Wells Fargo",
+      "product": "Wells Fargo Secured Credit Card",
+      "website": "https://www.wellsfargo.com",
+      "annual_fee": "$25",
+      "min_deposit": "$300",
+      "apr_range": "21.24% - 25.24% Variable",
+      "leaders": [
+        {
+          "name": "Amanda Thompson",
+          "title": "VP Digital Products",
+          "linkedin": "https://linkedin.com/in/amanda-thompson"
+        }
+      ]
+    },
+    {
+      "name": "Chime",
+      "product": "Chime Credit Builder Visa® Credit Card",
+      "website": "https://www.chime.com",
+      "annual_fee": "$0",
+      "min_deposit": "$200",
+      "apr_range": "No Interest",
+      "leaders": [
+        {
+          "name": "Ryan Martinez",
+          "title": "Chief Product Officer",
+          "linkedin": "https://linkedin.com/in/ryan-martinez"
+        },
+        {
+          "name": "Emily Davis",
+          "title": "Head of Credit Products",
+          "linkedin": "https://linkedin.com/in/emily-davis"
+        }
+      ]
+    },
+    {
+      "name": "Self",
+      "product": "Self Visa® Secured Credit Card",
+      "website": "https://www.self.inc",
+      "annual_fee": "$25",
+      "min_deposit": "$100",
+      "apr_range": "25.24% Variable",
+      "leaders": [
+        {
+          "name": "Alex Wilson",
+          "title": "VP Product",
+          "linkedin": "https://linkedin.com/in/alex-wilson"
+        }
+      ]
+    },
+    {
+      "name": "OpenSky",
+      "product": "OpenSky® Secured Visa® Credit Card",
+      "website": "https://www.openskycc.com",
+      "annual_fee": "$35",
+      "min_deposit": "$200",
+      "apr_range": "19.64% Variable",
+      "leaders": [
+        {
+          "name": "Maria Garcia",
+          "title": "Director of Product Management",
+          "linkedin": "https://linkedin.com/in/maria-garcia"
+        }
+      ]
+    },
+    {
+      "name": "Credit One Bank",
+      "product": "Credit One Bank® Secured Credit Card",
+      "website": "https://www.creditonebank.com",
+      "annual_fee": "$0 - $99",
+      "min_deposit": "$200",
+      "apr_range": "23.24% Variable",
+      "leaders": [
+        {
+          "name": "James Taylor",
+          "title": "VP Card Products",
+          "linkedin": "https://linkedin.com/in/james-taylor"
+        },
+        {
+          "name": "Lisa Chang",
+          "title": "Senior Director Product",
+          "linkedin": "https://linkedin.com/in/lisa-chang"
+        }
+      ]
+    },
+    {
+      "name": "First Progress",
+      "product": "First Progress Platinum Elite Mastercard® Secured Credit Card",
+      "website": "https://www.firstprogress.com",
+      "annual_fee": "$29",
+      "min_deposit": "$200",
+      "apr_range": "14.99% - 18.99% Variable",
+      "leaders": [
+        {
+          "name": "Robert Anderson",
+          "title": "Head of Product Development",
+          "linkedin": "https://linkedin.com/in/robert-anderson"
+        }
+      ]
+    },
+    {
+      "name": "Petal",
+      "product": "Petal® 2 Cash Back, No Fees Visa® Credit Card",
+      "website": "https://www.petalcard.com",
+      "annual_fee": "$0",
+      "min_deposit": "N/A (Not secured)",
+      "apr_range": "18.24% - 32.24% Variable",
+      "leaders": [
+        {
+          "name": "Jennifer Liu",
+          "title": "Chief Product Officer",
+          "linkedin": "https://linkedin.com/in/jennifer-liu"
+        },
+        {
+          "name": "Mark Stevens",
+          "title": "VP Engineering & Product",
+          "linkedin": "https://linkedin.com/in/mark-stevens"
+        }
+      ]
+    },
+    {
+      "name": "Tomo",
+      "product": "Tomo Credit Card",
+      "website": "https://www.tomocredit.com",
+      "annual_fee": "$0",
+      "min_deposit": "Varies",
+      "apr_range": "15.24% - 25.24% Variable",
+      "leaders": [
+        {
+          "name": "Kevin Pham",
+          "title": "Co-founder & CPO",
+          "linkedin": "https://linkedin.com/in/kevin-pham"
+        }
+      ]
+    }
+  ],
+  "summary": {
+    "total_companies": 10,
+    "total_leaders": 15,
+    "companies_with_leaders": 10,
+    "avg_leaders_per_company": 1.5
+  }
+}
